@@ -1,5 +1,5 @@
 # XpCounter upgraded from 1.12 to 1.13 by Lavitz
-*Version 1.12.2 - Aug 11 2019*
+*Version 1.13.2 - Aug 11 2019*
 
 I will update and clean up this README later. I will also add some features, including labels for the on-screen display and making the on-screen display look much nicer.
 
