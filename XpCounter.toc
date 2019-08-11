@@ -1,0 +1,9 @@
+## Title: XpCounter (Classic)
+## Version: 1.13.2 (Aug 11 2019)
+## Author: Lavitz
+## eMail: iolavitzio@gmail.com
+## SavedVariablesPerCharacter: XpCounter_Config
+## Notes: Shows the amount of XP needed to level up and other information related to EXP in a tooltip and/or customizeable overlay frame.
+XpCounter.xml
+localization.lua
+XpCounter.lua

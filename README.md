@@ -10,6 +10,8 @@ If you have any feedback or suggestions, or want to contribute localization or c
 
 ## Below is the old, unedited readme
 
+By Thugz [IDF] brutus@ainfos.de
+
 XpCounter shows a modified tooltip window for the standard experience bar
 containing various experience related information. You can also enable a
 dragable frame, that shows those info (or some of them, complete customizable)
