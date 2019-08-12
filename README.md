@@ -8,6 +8,8 @@ If you have any feedback or suggestions, or want to contribute localization or c
 [Lavitz GitHub: https://github.com/Lavitzio]()
 [Lavitz Twitter https://twitter.com/Lavitz_io]()
 
+![](https://cdn-wow.mmoui.com/preview/pvw71495_thumb.jpg)
+
 ## Below is the old, unedited readme
 
 By Thugz [IDF] brutus@ainfos.de
