@@ -1,22 +1,18 @@
 # XpCounter upgraded from 1.12 to 1.13 by Lavitz
 *Version 1.13.2 - Aug 11 2019*
 
-I will update and clean up this README later. I will also add some features, including labels for the on-screen display and making the on-screen display look much nicer.
-
-If you have any feedback or suggestions, or want to contribute localization or code, please feel free to set up a pull request on GitHub or message me on Twitter!
-
-[Twitter https://twitter.com/Lavitz_io]()
-
-![](https://cdn-wow.mmoui.com/preview/pvw71495_thumb.jpg)
-
-## Below is the old readme
-
-By Thugz [IDF] brutus@ainfos.de
+Originally By Thugz [IDF] brutus@ainfos.de
 
 XpCounter shows a modified tooltip window for the standard experience bar
 containing various experience related information. You can also enable a
 dragable frame, that shows those info (or some of them, complete customizable)
 on screen.
+
+![](https://cdn-wow.mmoui.com/preview/pvw71495_thumb.jpg)
+
+I will update and clean up this README later. I will also add some features, including labels for the on-screen display and making the on-screen display look much nicer.
+
+If you have any feedback or suggestions, or want to contribute localization or code, please feel free to set up a pull request on GitHub or message me on [Twitter](https://twitter.com/Lavitz_io)!
 
 FEATURES
 --------
