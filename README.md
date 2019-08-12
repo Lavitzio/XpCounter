@@ -64,6 +64,8 @@ TODO
 NOTES
 -----
 
+Original author: Thugz [IDF] brutus@ainfos.de
+
 Keeping Data from OLD versions:
 
 To keep your data from pre 0.8 versions just rename `XpBar.lua` to
