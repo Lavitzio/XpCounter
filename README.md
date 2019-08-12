@@ -21,7 +21,7 @@ on screen.
 FEATURES
 --------
 
-- Experience gained in pro cent
+- Experience gained in percent
 - Experience needed to level up
 - Bonus Experience (Rested)
 - A reset able Timer that counts XP gained & time played
@@ -46,13 +46,13 @@ You can set the text displayed in the overlay window with
 #xp_left#		XP needed to level up
 #xp_rested#		Bonus XP left
 #xp#			XP gathered
-#time_played#	Time played
+#time_played#		Time played
 #time_left#		Estimated time to level up
 #eph#			XP per hour
 #epm#			XP per minute
 #kills#			Number of mobs killed
-#avg_kill_xp#	Avarage XP rewarded for mob kill
-#kills_left#	Estmiate number of kills left till LevelUp
+#avg_kill_xp#		Average XP rewarded for mob kill
+#kills_left#		Estimate number of kills until level up
 ```
 
 Example:
