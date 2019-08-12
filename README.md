@@ -9,7 +9,7 @@ If you have any feedback or suggestions, or want to contribute localization or c
 
 ![](https://cdn-wow.mmoui.com/preview/pvw71495_thumb.jpg)
 
-## Below is the old, unedited readme
+## Below is the old readme
 
 By Thugz [IDF] brutus@ainfos.de
 
