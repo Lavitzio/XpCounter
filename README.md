@@ -1,7 +1,7 @@
 # XpCounter upgraded from 1.12 to 1.13 by Lavitz
 *Version 1.13.2 - Aug 11 2019*
 
-Originally By Thugz [IDF] brutus@ainfos.de
+Originally By Thugz [IDF]
 
 XpCounter shows a modified tooltip window for the standard experience bar
 containing various experience related information. You can also enable a
