@@ -12,7 +12,12 @@ on screen.
 
 I will update and clean up this README later. I will also add some features, including labels for the on-screen display and making the on-screen display look much nicer.
 
-If you have any feedback or suggestions, or want to contribute localization or code, please feel free to set up a pull request on GitHub or message me on [Twitter](https://twitter.com/Lavitz_io)!
+If you have any feedback or suggestions, or want to contribute localization or code, please feel free to set up a pull request on GitHub or message me on Discord (Lavitz#1337).
+
+**Links**
+
+- [WillitClassic](https://willitclassic.com/view/IiMqkwBiyonFn9gktunz)
+- [WoWInterface](https://www.wowinterface.com/downloads/info25112-XpCounterClassic.html)
 
 FEATURES
 --------
