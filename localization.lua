@@ -84,7 +84,7 @@ else
 
 	-- xp, xpmax, xpproc, xpleft, xprest, hours, minutes, xpcount, epm, kills, avg_kill_xp, kills_left, lvlup_hours, lvlup_minutes
 
-	XpCounter_msg_ToolTip = "|cffffcc00XpBar\n\n|cff888888XP: |cffffffff%s |cff888888of |cffffffff%s |cff888888(|cffffffff%s |cff888888%%)\n|cff888888XP to LevelUp: |cffffcc00%s\n|cff888888Bonus XP: |cffffffff%s\n\n|cff888888Time: |cffffffff%s Hours |cffffffff%s |cff888888Minutes\n|cff888888XP total: |cffffffff%s\n|cff888888EPH / EPM: |cffffcc00%s |cff888888/ |cffffcc00%s\n\n|cff888888Kills: |cffffffff%s |cff888888(~ |cffffffff%s |cff888888XP pro Kill)\n|cff888888Kills till LevelUp: |cffffcc00%s\n\n|cff888888Time to LevelUp: ~ |cffffffff%s Hours |cffffffff%s Minutes"
+	XpCounter_msg_ToolTip = "|cffffcc00XpBar\n\n|cff888888XP: |cffffffff%s |cff888888of |cffffffff%s |cff888888(|cffffffff%s |cff888888%%)\n|cff888888XP to LevelUp: |cffffcc00%s\n|cff888888Bonus XP: |cffffffff%s\n\n|cff888888Time: |cffffffff%s Hours |cffffffff%s |cff888888Minutes\n|cff888888XP total: |cffffffff%s\n|cff888888EPH / EPM: |cffffcc00%s |cff888888/ |cffffcc00%s\n\n|cff888888Kills: |cffffffff%s |cff888888(~ |cffffffff%s |cff888888XP per Kill)\n|cff888888Kills till LevelUp: |cffffcc00%s\n\n|cff888888Time to LevelUp: ~ |cffffffff%s Hours |cffffffff%s Minutes"
 
 	XpCounter_msg_Help_SIZE = 12
 	XpCounter_msg_Help = {
